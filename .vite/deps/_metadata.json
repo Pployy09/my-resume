@@ -1,0 +1,47 @@
+{
+  "hash": "7842780a",
+  "browserHash": "e3581952",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "f765e3da",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "e6175854",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "cf1aaf7a",
+      "needsInterop": true
+    },
+    "antd": {
+      "src": "../../node_modules/antd/es/index.js",
+      "file": "antd.js",
+      "fileHash": "cc96af2c",
+      "needsInterop": false
+    },
+    "@ant-design/icons": {
+      "src": "../../node_modules/@ant-design/icons/es/index.js",
+      "file": "@ant-design_icons.js",
+      "fileHash": "8129cbb0",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-3DNF3EHS": {
+      "file": "chunk-3DNF3EHS.js"
+    },
+    "chunk-7FOSVJUD": {
+      "file": "chunk-7FOSVJUD.js"
+    },
+    "chunk-I2YVUVOB": {
+      "file": "chunk-I2YVUVOB.js"
+    }
+  }
+}

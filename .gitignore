@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.next
+build
+out
+test-results
+.env*
+*.pem
+*.jks
